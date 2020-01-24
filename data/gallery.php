@@ -2,7 +2,7 @@
 return [
     [
         'id'          => 1,
-        'slug'        => 'perferendis-fuga-dolor',
+        'slug'        => 'perferendis-fuga-dolor.jpg',
         'title'       => 'Perferendis fuga dolor',
         'date'        => '2019-09-25',
         'location'    => 'Sonyaville, Grenada',
@@ -10,7 +10,7 @@ return [
     ],
     [
         'id'          => 2,
-        'slug'        => 'voluptatem-alias',
+        'slug'        => 'voluptatem-alias.jpg',
         'title'       => 'Voluptatem alias',
         'date'        => '2018-03-09',
         'location'    => 'Aleenhaven, Somalia',
@@ -18,7 +18,7 @@ return [
     ],
     [
         'id'          => 3,
-        'slug'        => 'quas-magnam-doloremque',
+        'slug'        => 'quas-magnam-doloremque.jpg',
         'title'       => 'Quas magnam doloremque',
         'date'        => '2017-10-08',
         'location'    => 'New Wilmaburgh, Palestinian Territories',
@@ -26,7 +26,7 @@ return [
     ],
     [
         'id'          => 4,
-        'slug'        => 'ipsum-eos-hic',
+        'slug'        => 'ipsum-eos-hic.jpg',
         'title'       => 'Ipsum eos hic',
         'date'        => '2017-11-06',
         'location'    => 'Lake Robbieside, Bangladesh',
@@ -34,7 +34,7 @@ return [
     ],
     [
         'id'          => 5,
-        'slug'        => 'atque-dolorum',
+        'slug'        => 'atque-dolorum.jpg',
         'title'       => 'Atque dolorum',
         'date'        => '2018-08-20',
         'location'    => 'Michaelamouth, Bahrain',
@@ -42,7 +42,7 @@ return [
     ],
     [
         'id'          => 6,
-        'slug'        => 'repudiandae-fuga-facilis',
+        'slug'        => 'repudiandae-fuga-facilis.jpg',
         'title'       => 'Repudiandae fuga facilis',
         'date'        => '2017-09-19',
         'location'    => 'West Antoniettaberg, Iran',
@@ -50,7 +50,7 @@ return [
     ],
     [
         'id'          => 7,
-        'slug'        => 'voluptatibus-illo-est-earum',
+        'slug'        => 'voluptatibus-illo-est-earum.jpg',
         'title'       => 'Voluptatibus illo est earum',
         'date'        => '2018-11-21',
         'location'    => 'North Fern, Timor-Leste',
@@ -58,7 +58,7 @@ return [
     ],
     [
         'id'          => 8,
-        'slug'        => 'nostrum-eaque',
+        'slug'        => 'nostrum-eaque.jpg',
         'title'       => 'Nostrum eaque',
         'date'        => '2018-08-28',
         'location'    => 'South Fannieville, Argentina',
@@ -66,7 +66,7 @@ return [
     ],
     [
         'id'          => 9,
-        'slug'        => 'nihil-officiis-aliquid',
+        'slug'        => 'nihil-officiis-aliquid.jpg',
         'title'       => 'Nihil officiis aliquid',
         'date'        => '2017-02-02',
         'location'    => 'New Sally, Yemen',
@@ -74,7 +74,7 @@ return [
     ],
     [
         'id'          => 10,
-        'slug'        => 'provident-quam-blanditiis-architecto',
+        'slug'        => 'provident-quam-blanditiis-architecto.jpg',
         'title'       => 'Provident quam blanditiis architecto',
         'date'        => '2018-08-07',
         'location'    => 'North Georgette, Burkina Faso',
@@ -82,7 +82,7 @@ return [
     ],
     [
         'id'          => 11,
-        'slug'        => 'ullam-enim',
+        'slug'        => 'ullam-enim.jpg',
         'title'       => 'Ullam enim',
         'date'        => '2018-06-02',
         'location'    => 'Ratkeville, Guernsey',
@@ -90,7 +90,7 @@ return [
     ],
     [
         'id'          => 12,
-        'slug'        => 'minus-cumque-animi-impedit',
+        'slug'        => 'minus-cumque-animi-impedit.jpg',
         'title'       => 'Minus cumque animi impedit',
         'date'        => '2017-07-29',
         'location'    => 'Fisherfort, Bhutan',
@@ -98,7 +98,7 @@ return [
     ],
     [
         'id'          => 13,
-        'slug'        => 'officia-debitis-necessitatibus-ducimus',
+        'slug'        => 'officia-debitis-necessitatibus-ducimus.jpg',
         'title'       => 'Officia debitis necessitatibus ducimus',
         'date'        => '2018-04-05',
         'location'    => 'New Julianton, Pakistan',
@@ -106,7 +106,7 @@ return [
     ],
     [
         'id'          => 14,
-        'slug'        => 'nihil-tempora',
+        'slug'        => 'nihil-tempora.jpg',
         'title'       => 'Nihil tempora',
         'date'        => '2018-03-03',
         'location'    => 'Altenwerthview, Mauritius',
@@ -114,7 +114,7 @@ return [
     ],
     [
         'id'          => 15,
-        'slug'        => 'et-atque-dignissimos',
+        'slug'        => 'et-atque-dignissimos.jpg',
         'title'       => 'Et atque dignissimos',
         'date'        => '2018-10-13',
         'location'    => 'Alexisborough, Austria',
@@ -122,7 +122,7 @@ return [
     ],
     [
         'id'          => 16,
-        'slug'        => 'exercitationem-vel',
+        'slug'        => 'exercitationem-vel.jpg',
         'title'       => 'Exercitationem vel',
         'date'        => '2017-05-17',
         'location'    => 'Cristinaland, American Samoa',
